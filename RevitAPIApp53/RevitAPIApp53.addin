@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type ="Application">
+		<Name>RevitAPI плагины</Name>
+		<Assembly>C:\Program Files\RevitAPITraining\RevitAPIApp53.dll</Assembly>
+		<FullClassName>RevitAPIApp53.Main</FullClassName>
+		<AddInId>678B783F-7640-474F-B431-B7731475E551</AddInId>
+		<VendorId>ADSK</VendorId>
+		<VisibilityMode>AlwaysVisible</VisibilityMode>
+	</AddIn>
+</RevitAddIns>
